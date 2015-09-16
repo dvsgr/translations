@@ -8770,7 +8770,7 @@ msgstr "Υπηρεσία αποστολής"
 
 msgctxt "Languages::shipping_tips"
 msgid "<p>Products in stock will be sent after the payment is verified. Mail service is responsible for the goods during transportation.</p><p>Please, open the package delivered under your order the moment you receive it. If any damage is revealed, make claims against mail service.</p><p>Any questions? Contact our Customer Service at 123-12-23</p>"
-msgstr "<p>Τα Προϊόντα  σε απόθεμα αποστέλονται μετά τον έλεγχο της πληρωμής. </p><p> Παρακαλούμε, ανοίξτε το πακέτο που παραδίδεται σύμφωνα με την παραγγελία σας τη στιγμή που θα το παραλάβετε. Εάν ανακαλύψετε οποιαδήποτε ζημία, δεν ευθυνόμαστε εμείς αλλά η υπηρεσία μεταφορών</p><p> Έχετε ερωτήσεις; Επικοινωνήστε με την Υπηρεσία Εξυπηρέτησης Πελατών στο 25210 55595</ p>"
+msgstr "<p>Τα Προϊόντα  σε απόθεμα αποστέλονται μετά τον έλεγχο της πληρωμής. </p><p> Παρακαλούμε, ανοίξτε το πακέτο που παραδίδεται σύμφωνα με την παραγγελία σας τη στιγμή που θα το παραλάβετε. Εάν ανακαλύψετε οποιαδήποτε ζημία, δεν ευθυνόμαστε εμείς αλλά η υπηρεσία μεταφορών</p><p> Έχετε ερωτήσεις; Επικοινωνήστε με την Υπηρεσία Εξυπηρέτησης Πελατών στο 123-12-23</p>"
 
 msgctxt "Languages::ship_aup_delivery_confirmation_cost"
 msgid "Delivery Confirmation cost"
